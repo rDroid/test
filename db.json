@@ -1,0 +1,46 @@
+{
+  "plants": [
+    {
+      "plantCd": "067",
+      "plantDesc": "HSM"
+    }, 
+    {
+      "plantCd": "062",
+      "plantDesc": "LD3TSCR"
+    },
+    {
+      "plantCd": "084",
+      "plantDesc": "CRMB"
+    }
+  ],
+  "destinations": [
+  {
+      "destCd": "00001",
+      "destDesc": "NDLS"
+    },
+    {
+      "destCd": "00002",
+      "destDesc": "CHENNAI"
+    }
+  ],
+  "wagonList":[{
+  "wagonNo":"13451",
+  "wagoType":"BOXN",
+  "OwnRly":"IR",
+  "Capacity":55
+  },
+  {
+  "wagonNo":"1321",
+  "wagoType":"BOBSN",
+  "OwnRly":"IR",
+  "Capacity":55
+  },
+  {
+  "wagonNo":"13411",
+  "wagoType":"BRN",
+  "OwnRly":"IR",
+  "Capacity":55
+  }
+  ]
+  
+}
